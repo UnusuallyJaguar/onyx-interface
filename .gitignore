@@ -7,7 +7,7 @@
 /out-tsc
 .env
 # dependencies
-/node_modules
+node_modules
 /build
 yarn-error.log
 
