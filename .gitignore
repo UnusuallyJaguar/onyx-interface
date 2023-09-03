@@ -8,7 +8,7 @@
 .env
 # dependencies
 node_modules
-/build
+/build 
 yarn-error.log
 
 # IDEs and editors
